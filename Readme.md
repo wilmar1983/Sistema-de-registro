@@ -3,3 +3,4 @@
 - Estado del proyecto en costrucción
 
 - practicando en git hub
+- sistema de registro
